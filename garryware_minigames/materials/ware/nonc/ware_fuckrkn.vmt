@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "ware/nonc/ware_fuckrkn"
+
+	$vertexcolor 1
+	$vertexalpha 1
+}

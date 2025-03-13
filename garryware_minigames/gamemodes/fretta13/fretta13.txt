@@ -1,0 +1,11 @@
+"fretta13"
+{
+	"base"				"base"
+	"title"				"Fretta Gamemode Base"
+	"category"		"pvp"
+	"menusystem"		"0"
+
+	"author_name"		"КОМАНДА ГАРРИ"
+	"author_email"		""
+	"author_url"		"http://www.garrysmod.com/"
+}

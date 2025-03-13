@@ -1,0 +1,17 @@
+"garryware13"
+{
+    "base"              "fretta13"
+	"title"		        "GarryWare: GarryWare Fixed На Русском"
+    "menusystem"		"1"	
+	"maps"              "^wa_"
+	
+	"selectable"	    "1"
+	"fretta_maps"
+	{
+		"1"	"wa_"
+	}
+    "description"	"GarryWare - Делай то, что тебе говорят."
+	
+	"author_name"	"GarryWare"
+	
+}
